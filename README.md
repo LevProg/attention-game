@@ -1,5 +1,5 @@
 # Simple_Game
-## A simple game created with Unity, creation time (3-4 days)
+## A simple game created with Unity
 
 Released game with built-in google API (AdMob and Google Services, Services are used for leaderboards)
 
