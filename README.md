@@ -1,5 +1,6 @@
 # Attention Game
 ## A simple puzzle game created with Unity
+## A predictor is generated, according to which the player must choose the most suitable option, the game is aimed at the player's attentiveness and reading speed.
 ### Released game with built-in google API (AdMob and Google Services, Services are used for leaderboards)
 ### Implemented settings, soundtrack and display of ads on loss
 #### User Flow
